@@ -1,0 +1,3 @@
+# SingleAndMultiSelect_Demo
+单选和多选删除
+实现在tableView里单选删除和多选删除
